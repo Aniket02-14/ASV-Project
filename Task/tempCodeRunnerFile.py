@@ -1,0 +1,1 @@
+plt.plot(xi,yi)
